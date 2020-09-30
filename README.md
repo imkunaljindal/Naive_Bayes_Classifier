@@ -1,7 +1,6 @@
 # Naive_Bayes_Classifier
-<b1> Statement of Bayes’ theorem <br>
-Bayes’ theorem relates the conditional and marginal probabilities of stochastic
-events A and B:
+### Statement of Bayes’ theorem <br>
+Bayes’ theorem relates the conditional and marginal probabilities of stochastic events A and B: <br>
 P(A|B) = P(B|A) P(A)
 P(B) .
 Each term in Bayes’ theorem has a conventional name:
