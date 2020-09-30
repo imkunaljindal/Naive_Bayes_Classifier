@@ -1,5 +1,6 @@
 # Naive Bayes Classifier <br>
-* This model predicts the class of a given mushroom based on various features (23 in total) by making use of **Bayes Theorem** and **Naive Bayes Assumption**.
+* This model predicts the class of a given mushroom based on various features (23 in total) by making use of **Bayes Theorem** and **Naive Bayes Assumption**. <br>
+* The classifier produces an accuracy of more than **99% !**
 
 ## Bayes Theorem for n features
 Here we have a naive bayes assumption and that is that probability of a feature belonging to a class is not affected by the other features.
